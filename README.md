@@ -1,5 +1,14 @@
 ### 自己做的 Spring Boot 2.1.x 相关例子
 
+<style>
+table th:nth-of-type(1) {
+    width: 150px;
+}
+table th:nth-of-type(2) {
+    width: 150px;
+}
+</style>
+
 Spring Boot 例子 | 实现的功能 |  Github 网址 | Stars
 --- | --- | --- | ---
 Spring Boot 整合 MyBatis | MySQL、MyBatis、单元测试、Swagger、devTools、使用 Simple 缓存 | https://github.com/cag2050/spring_boot_mysql_mybatis_demo | ![GitHub stars](https://img.shields.io/github/stars/sfyc23/EverydayWechat.svg?style=social)
