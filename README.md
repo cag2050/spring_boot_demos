@@ -2,7 +2,7 @@
 
 Spring Boot 例子 | 实现的功能 |  Github 网址 | Stars
 --- | --- | --- | ---
-Spring Boot 整合 MyBatis | MySQL、MyBatis、单元测试、Swagger、devTools、使用 Simple 缓存 | https://github.com/cag2050/spring_boot_mysql_mybatis_demo | https://img.shields.io/github/stars/cag2050/qiniu_upload?style=social
+Spring Boot 整合 MyBatis | MySQL、MyBatis、单元测试、Swagger、devTools、使用 Simple 缓存 | https://github.com/cag2050/spring_boot_mysql_mybatis_demo | ![GitHub stars](https://img.shields.io/github/stars/sfyc23/EverydayWechat.svg?style=social)
 Spring Boot 整合 Redis 作为分布式数据缓存 | Redis 缓存、Actuator 监控 | https://github.com/cag2050/spring_boot_cache_redis_demo
 Spring Boot 整合 Redis 集中管理Session |  | https://github.com/cag2050/spring_boot_session_redis_demo
 Spring Boot 集成 Kafka |  | https://github.com/cag2050/spring_boot_kafka_demo
